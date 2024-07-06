@@ -48,14 +48,10 @@ Menggunakan MySQL untuk menyimpan data:
 3. Jalankan aplikasi menggunakan server XAMPP atau sejenisnya.
 
 ## Lisensi
-Proyek ini dilisensikan di bawah [nama lisensi]. Lihat file `LICENSE` untuk detail lebih lanjut.
-
-## Syarat dan Ketentuan
-Silakan baca syarat dan ketentuan penggunaan layanan kami di [link ke halaman Syarat dan Ketentuan].
+Proyek ini dilisensikan di bawah [Apache-2.0 license]. Lihat file `LICENSE` untuk detail lebih lanjut.
 
 ## Pengembang
-- Noval (FUll Stack Developer)
-- 
-
+- Noval (Full Stack Web Developer)
+  
 ## Kontak
 Jika ada pertanyaan atau masukan, silakan hubungi kami di [naufalshofy38@gmail.com](mailto:naufalshofy38@gmail.com).
