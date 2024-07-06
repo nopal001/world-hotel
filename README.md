@@ -48,7 +48,9 @@ Menggunakan MySQL untuk menyimpan data:
 3. Jalankan aplikasi menggunakan server XAMPP atau sejenisnya.
 
 ## Lisensi
-Proyek ini dilisensikan di bawah [Apache-2.0 license]. Lihat file `LICENSE` untuk detail lebih lanjut.
+Proyek ini dilisensikan di bawah [Apache-2.0 license](https://github.com/nopalsh/world-hotel?tab=Apache-2.0-1-ov-file). Lihat file `LICENSE` untuk detail lebih lanjut.
+
+**Peringatan:** Melakukan tindakan merugikan terhadap pengembang dapat mengakibatkan sanksi sesuai dengan ketentuan lisensi yang berlaku. Lisensi ini dapat dilepas jika klien bersedia membayar.
 
 ## Pengembang
 - Noval (Full Stack Web Developer)
