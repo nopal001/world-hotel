@@ -1,4 +1,4 @@
-# Hotel Website 🏨
+# Hotel Website
 
 ## Deskripsi Proyek
 Proyek ini adalah sebuah website untuk pemesanan kamar hotel yang memungkinkan pengguna untuk melihat ketersediaan kamar, melakukan pemesanan, dan melakukan pembayaran secara online atau tunai.
@@ -53,9 +53,9 @@ Proyek ini dilisensikan di bawah [nama lisensi]. Lihat file `LICENSE` untuk deta
 ## Syarat dan Ketentuan
 Silakan baca syarat dan ketentuan penggunaan layanan kami di [link ke halaman Syarat dan Ketentuan].
 
-## Tim Pengembang
-- Noval (Project Manager & Frontend Developer)
-- [Nama Anggota Tim Lainnya]
+## Pengembang
+- Noval (FUll Stack Developer)
+- 
 
 ## Kontak
-Jika ada pertanyaan atau masukan, silakan hubungi kami di [email@example.com](mailto:email@example.com).
+Jika ada pertanyaan atau masukan, silakan hubungi kami di [naufalshofy38@gmail.com](mailto:naufalshofy38@gmail.com).
